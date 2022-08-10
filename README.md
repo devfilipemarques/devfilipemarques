@@ -3,7 +3,7 @@
 
 💡 &nbsp;Gosto de explorar novas tecnologias e desenvolver soluções.\
 🎓 &nbsp;Atualmente estou estudando Análise e Desenvolvimnto de Sistemas na FAN - Conveniada FGV.\
-🌱 &nbsp;Estou no caminho certo para aprender mais sobre Inteligência Artificial, Design de Sistemas e Arquitetura Cloud.\
+🌱 &nbsp;Estou no caminho certo para aprender mais sobre React, Vuejs e React Native.\
 ✍️ &nbsp;No meu tempo livre, busco mais conhecimento sobre as linguagens que tenho afinidade.\
 💬 &nbsp;Sinta-se à vontade para entrar em contato comigo para para uma troca de ideias.\
 📄 &nbsp;Por favor, dê uma olhada no meu [Portfolio](https://beacons.ai/devfilipemarques) para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
